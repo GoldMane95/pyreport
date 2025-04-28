@@ -9,7 +9,7 @@ base folder should contain the file you intend to build off of.
 extra folder should contain files with information you would like to concatenate onto the base report.
 output folder should be empty, this is where pyreport will place the finished excel file.
 
-Useage:
+Usage:
 1. Place main excel report into base folder
 2. Place additional reports into extra folder
 3. Ensure output folder is empty
